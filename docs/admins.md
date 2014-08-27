@@ -15,3 +15,9 @@ Grupo de telegram
 Para acceder al grupo de telegram envía un email con tu número de telefono indicando que quieres ser añadido al telegram.
 
 * [Hugo Chinchilla](https://github.com/hugochinchilla) (hugo@bulma.net)
+
+Organización de GitHub
+----------------------
+
+ * [Guillermo J. De Ignacio Marí](https://github.com/gdeignacio) (gdeignacio@gmail.com)
+ * [Hugo Chinchilla](https://github.com/hugochinchilla) (hugo@bulma.net)
