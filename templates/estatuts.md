@@ -120,7 +120,7 @@ Correspon al secretari-tresorer la redacció de les actes de les reunions de l'A
 
 
 CAPÌTOL 5
----------a
+---------
 
 Dels bens econoòmics de l'Associació
 
