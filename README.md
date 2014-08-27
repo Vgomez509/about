@@ -16,7 +16,7 @@ La dirección de la lista de correo es you@canhack.it, antes de poder publicar e
 
 #### Grupo de telegram
 
-Para acceder al grupo de telegram, envía un email con tu número de teléfono a alguno de los administradores, consulta la  (lista de administradores).
+Para acceder al grupo de telegram, envía un email con tu número de teléfono a alguno de los administradores, consulta la  [lista de administradores](docs/admins.md).
 
 
 Colabora
