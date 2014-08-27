@@ -1,37 +1,38 @@
 ESTATUTS
-
-ASSOCIACIÓ CULTURAL XXX
+========
 
 CAPÍTOL 1
+---------
 
 Denominació, finalitat, naturalesa i àmbit d'actuació
 
-Article 1. Denominació
+#### Article 1. Denominació
 
 L'ASSOCACIÓ CULTURAL XXX és una entitat sense finalitat lucrativa que s'acull a l'article 22.3 de la Constitució, a la Llei orgànica 1/2002, de 22 de Març, reguladora del dret d'associació i disposicions complementaries. L'associació estarà integrada per persones majors d'edat que desitjin col.laborar amb les finalitats de la mateixa.
 
-Article 2. Finalitat de l'associació
+#### Article 2. Finalitat de l'associació
 
 Les finalitats primordials son: promoure la música, la formació musical, la investigació musical, així com de les ciències i tècniques relacionades amb aquesta i dur a terme una sèrie d'activitats relacionades amb les mateixes:
 Tasques d'investigació cultural, conferències, concerts, cursos, formació, mecenatge, enregistrament, edició de material i d'altres anàlogues.
 Col.laboració amb altres entitats culturals i cívico-socials de les Illes Balears
 Utilitzarà els mitjans de comunicació i les noves tecnologies i podrà, en el seu cas, crear mitjans de comunicació propis per contribuir al compliment de les seves finalitats.
 
-Article 3. Naturalesa
+#### Article 3. Naturalesa
 
 L'ASSOCACIÓ CULTURAL XXX disfrutarà de personalitat jurídica pròpia i gaudirà de plena capacitat per adquirir, posseir, imposar càrregues i gravàmens, alienar béns i realitzar tota classe d'actes i contractes amb els fins que persegueix.
 
-Article 4. Domicili principal
+#### Article 4. Domicili principal
 
 El domicili social principal de lASSOCIACIÓ CULTURAL XXX radicarà a Palma de Mallorca, al carrer XXX. Així mateix podrà crear locals socials a altres ciutats, previ acord de la Junta Directiva, de la qual tendrà atribució per canviar el domicili i/o locals.
 
-Article 5. Àmbit d'acció territorial
+#### Article 5. Àmbit d'acció territorial
 
 L'àmbit territorial d'actuació de l'Associació serà l'ambit de les Illes Balears.
 
 
 
 CAPÍTOL 2
+---------
 
 Drets i deures dels sòcis
 
@@ -48,6 +49,7 @@ Article 7. Deures
 
 
 CAPÍTOL 3
+---------
 
 Admissió i baixes dels socis
 
@@ -58,6 +60,7 @@ Article 9. La qualitat de soci només es podrà perdre per manca de pagament de 
 
 
 CAPÍTOL 4
+---------
 
 Òrgans directius i forma d'administració
 
@@ -99,6 +102,7 @@ Article 19. Correspon al secretari-tresorer la redacció de les actes de les reu
 
 
 CAPÌTOL 5
+---------
 
 Dels bens econoòmics de l'Associació
 
