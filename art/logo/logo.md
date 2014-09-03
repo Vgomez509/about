@@ -18,4 +18,6 @@ Construcción del logo
 
 El diseño se ha basado en el [código](http://www.catb.org/hacker-emblem/glider.pic) pic escrito por Eric S. Raymond y ejecutado en pic2graph
 
-El texto se ha editado con Atom
+El texto se ha editado con [Atom](https://atom.io/)
+
+[Código fuente](canhack.pic)
