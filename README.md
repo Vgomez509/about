@@ -1,5 +1,9 @@
- ![Nuestro logo](art/logo/canhack.png)
 
+[logo]:art/logo/canhack.png
+[about_logo]:art/logo/logo.md
+[![Nuestro logo][logo]][about_logo]
+
+ 
 Acerca de Can Hack
 ==================
 
