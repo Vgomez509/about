@@ -2,7 +2,17 @@ Nuestro logo
 ===================
 
 
+[logo]: /art/logo/canhack.png
+[about_logo]: /art/logo/logo.md
+[![Nuestro logo][logo]][about_logo]
+
+
 Es una variante del [emblema hacker](http://es.wikipedia.org/wiki/Emblema_hacker).
+
+
+[logo_hacker]: http://www.catb.org/hacker-emblem/glider.png
+[about_logo_hacker]: http://es.wikipedia.org/wiki/Emblema_hacker
+[![logo_hacker][logo_hacker]][about_logo_hacker]
 
 
 Significado
