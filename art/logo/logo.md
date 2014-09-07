@@ -21,6 +21,7 @@ Significado
 El conocido planeador (Glider) del [juego de la vida](http://es.wikipedia.org/wiki/Juego_de_la_vida), compuesto por [cajas azules](http://es.wikipedia.org/wiki/Bluebox) o [blue boxes](http://en.wikipedia.org/wiki/Blue_box), que sustituyen  a los círculos negros del emblema hacker.
 
 
+
 #### Can Hack
 
 Las [domus](http://es.wikipedia.org/wiki/Domus) romanas tenían un vestíbulo o *atrium* con una parte cubierta y una piscina descubierta (o *impluvium*) en el centro. Un *atrium* visto desde el aire presentaría el mismo aspecto que nuestras cajas azules.
