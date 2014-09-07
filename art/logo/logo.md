@@ -18,8 +18,7 @@ Es una variante del [emblema hacker](http://es.wikipedia.org/wiki/Emblema_hacker
 Significado
 ---------------
 
-El conocido planeador (Glider) del [juego de la vida](http://es.wikipedia.org/wiki/Juego_de_la_vida), compuesto por [cajas azules](http://es.wikipedia.org/wiki/Bluebox) o [blue boxes](http://en.wikipedia.org/wiki/Blue_box), que sustituyen  a los círculos negros del emblema hacker.
-
+El conocido planeador (Glider) del [juego de la vida](http://es.wikipedia.org/wiki/Juego_de_la_vida), compuesto por [cajas azules](http://es.wikipedia.org/wiki/Bluebox) o [blue boxes](http://en.wikipedia.org/wiki/Blue_box) que sustituyen a los círculos negros del emblema hacker.
 
 #### Can Hack
 
