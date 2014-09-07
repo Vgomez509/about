@@ -1,4 +1,4 @@
- ![Nuestro logo](art/logo/canhack.png)(art/logo/logo.md)
+ ![Nuestro logo](art/logo/canhack.png)
 
 Acerca de Can Hack
 ==================
