@@ -29,7 +29,7 @@ control y cierre del proyecto.
 + El plan de proyecto documenta la planificación de asunciones y decisiones,
 posibilita la comunicación entre los actores, y documenta el alcance,
 coste y planificación del proyecto.
-+ El plan de proyecto incluye lso planes para gestión de incidencias, control de cambios,
++ El plan de proyecto incluye los planes para gestión de incidencias, control de cambios,
 comunicaciones, revisión y aceptación de entregas, adquisición de equipo y gestión riesgos.
 + El Director de proyecto es la persona responsable de todos los aspectos del proyecto
 durante el ciclo de vida completo de la gestión del proyecto(inicio, planificación, ejecución,
