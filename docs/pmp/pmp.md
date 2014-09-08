@@ -7,24 +7,18 @@
 Can Hack
 ==================
 
-- - -
-
 Plan de Gestion del proyecto (PMP)
-===================================
-
-- - -
-
+==============================
 Fecha de Inicio: 8 de Septiembre de 2014
 
 Historial de revisiones
 -------------------------
 
-- - -
 
 
-| nº   Fecha | Observaciones |
+| nº |  Fecha | Observaciones |
 
-| - - |   - -  |       - - |
+| - - |   - -  |   - - |
 
 |1.0 | 8 de Septiembre de 2014 | Inicio |
 
