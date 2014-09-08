@@ -15,11 +15,6 @@ Historial de revisiones
 -------------------------
 
 
-
-| nº |  Fecha | Observaciones |
-
-| - - |   - -  |   - - |
-
-|1.0 | 8 de Septiembre de 2014 | Inicio |
+1.0    8 de Septiembre de 2014    Inicio 
 
 
