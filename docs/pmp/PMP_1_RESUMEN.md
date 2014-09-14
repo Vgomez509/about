@@ -73,4 +73,4 @@ nº | Descripción | Probabilidad | Impacto
 ---------- | ------- | --------------| -----
 1 | 0 | _ | _
 Estrategia de mitigación | 0
-Plan de contingencia | 0 
+Plan de contingencia | 0
