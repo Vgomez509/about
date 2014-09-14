@@ -11,12 +11,24 @@ Plan de Gestion del proyecto (PMP)
 ==============================
 Fecha de Inicio: 8 de Septiembre de 2014
 
+Datos generales
+-------------------------
+
+Proyecto | Can Hack (about)
+Fase | Planificación
+Estado | Inicial
+Fichero | PMP.md
+Creado el  | 08-09-2014
+Ultimo cambio | 08-09-2014
+Preparado por | gdeignacio (gdeignacio@gmail.com)
+
+
 Historial de revisiones
 -------------------------
 
-
-1.0    8 de Septiembre de 2014    Inicio
-
+Revisión | Fecha (dd-mm-yyyy) | Comentarios
+---------- | ------- | -------------------
+1 | 08-09-2014 | Inicio
 
 
 Acerca de este documento
