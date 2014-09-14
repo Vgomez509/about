@@ -14,10 +14,16 @@ Fecha de Inicio: 8 de Septiembre de 2014
 Datos generales
 -------------------------
 
-Revisión | Fecha (dd-mm-yyyy)
+ | 
 ---------- | -------
 Proyecto | Can Hack (about)
-Proyecto | Can Hack (about)
+Fase | Planificación
+Estado | Inicial
+Fichero | PMP.md
+Creado el | 08-09-2014
+Ultimo cambio | 14-09-2014
+Preparado por | gdeignacio (gdeignacio@gmail.com)
+
 
 Historial de revisiones
 -------------------------
