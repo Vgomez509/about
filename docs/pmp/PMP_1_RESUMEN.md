@@ -40,7 +40,9 @@ Dependencias
 Los tipos de dependencia incluyen los siguientes y se deben indicar para cada dependencia.
 
 Obligatoria: Inherente a las tareas a realizar.
+
 Discrecional: Definidas por el equipo de gestión del proyecto.
+
 Externa: Producida por factores ajenos al proyecto como proveedores o gestiones externas.
 
 
@@ -70,4 +72,5 @@ Riesgos iniciales identificados
 nº | Descripción | Probabilidad | Impacto
 ---------- | ------- | --------------| -----
 1 | 0 | _ | _
-2 | 0 | _ | _
+Estrategia de mitigación | 0 | |
+Plan de contingencia | 0 | |
