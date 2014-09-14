@@ -10,8 +10,7 @@ Información general
 Resumen y fundamentos
 ----------------
 
-
-
+Can Hack es una asociación sin ánimo de lucro que busca democratizar el acceso a las tecnologías de fabricación mediante el impulso de un taller de trabajo en grupo.
 
 
 Dotación del proyecto
@@ -50,8 +49,6 @@ nº | Descripción | Tipo M, D, E
 ---------- | ------- | -------------------
 1 | 0 | _
 2 | 0 | _
-
-
 
 
 Supuestos previos
