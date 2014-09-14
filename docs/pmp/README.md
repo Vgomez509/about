@@ -14,18 +14,13 @@ Fecha de Inicio: 8 de Septiembre de 2014
 Datos generales
 -------------------------
 
+--------|--------
 Proyecto | Can Hack (about)
-
 Fase | Planificación
-
 Estado | Inicial
-
 Fichero | PMP.md
-
 Creado el  | 08-09-2014
-
 Ultimo cambio | 08-09-2014
-
 Preparado por | gdeignacio (gdeignacio@gmail.com)
 
 
