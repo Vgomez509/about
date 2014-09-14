@@ -14,7 +14,7 @@ Fecha de Inicio: 8 de Septiembre de 2014
 Datos generales
 -------------------------
 
- | 
+  
 ---------- | -------
 Proyecto | Can Hack (about)
 Fase | Planificación
