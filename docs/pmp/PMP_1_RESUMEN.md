@@ -17,8 +17,9 @@ Resumen y fundamentos
 Dotación del proyecto
 ----------------
 
-
-
+Año fiscal | Cuantía | Fuentes de ingresos
+---------- | ------- | -------------------
+2014 | 0 | Aportacion inicial
 
 
 Restricciones
