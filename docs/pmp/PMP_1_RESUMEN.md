@@ -69,8 +69,8 @@ Riesgos iniciales identificados
 ----------------
 
 
-nº | Tratamiento
----------- | -------
+nº | Tratamiento |
+---------- | ------- | ----
 Descripción | Probabilidad: Baja | Impacto: Alto
-||Estrategia de mitigación 
+||Estrategia de mitigación
 ||Plan de contingencia
