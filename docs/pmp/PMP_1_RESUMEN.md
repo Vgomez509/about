@@ -20,28 +20,54 @@ Dotación del proyecto
 Año fiscal | Cuantía | Fuentes de ingresos
 ---------- | ------- | -------------------
 2014 | 0 | Aportacion inicial
+2015 | 0 | A determinar
 
 
 Restricciones
 ----------------
 
+Las restricciones son factores que limitan el proyecto por alcance, recursos o cronograma
 
+nº | Descripción
+---------- | -------
+1 | 0
+2 | 0
 
 
 Dependencias
 ----------------
 
+Los tipos de dependencia incluyen los siguientes y se deben indicar para cada dependencia.
+
+Obligatoria: Inherente a las tareas a realizar.
+Discrecional: Definidas por el equipo de gestión del proyecto.
+Externa: Producida por factores ajenos al proyecto como proveedores o gestiones externas.
+
+
+nº | Descripción | Tipo M, D, E
+---------- | ------- | -------------------
+1 | 0 | _
+2 | 0 | _
 
 
 
 
-Supuestos
+Supuestos previos
 ----------------
 
+Factores de planificación que se suponen ciertos a priori
 
-
-
+nº | Descripción
+---------- | -------
+1 | 0
+2 | 0
 
 
 Riesgos iniciales identificados
 ----------------
+
+
+nº | Descripción | Probabilidad | Impacto
+---------- | ------- | --------------| -----
+1 | 0 | _ | _
+2 | 0 | _ | _
