@@ -31,5 +31,6 @@ Colabora
 Puedes colaborar creando un fork y realizando un pull request o puedes solicitar a un [administrador](docs/admins.md) que te agregue a la organización de github para poder trabajar directamente sobre el repositorio original.
 
  * [Lista de tareas](https://github.com/CanHack/about/issues)
+ * [Aprende git en 15 minutos](https://try.github.io/levels/1/challenges/1)
 
 
