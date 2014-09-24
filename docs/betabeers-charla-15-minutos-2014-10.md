@@ -8,8 +8,9 @@ Can Hack
     * Hacking en el sentido de usar las cosas de forma diferente a la prevista
     * No ciberdelincuencia
     * Colaboración, no se viene para trabajar solo
+    * Espacio educativo
   - Actividades
-    * Desarrollo de software
+    * Desarrollo de software y hardware
     * Fabricación
     * Prototipado
     * Robótica
