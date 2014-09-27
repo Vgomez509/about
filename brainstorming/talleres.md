@@ -1,4 +1,4 @@
-Lista de talleres propuestos
+Lista de talleres
 ==================
 
 * Git
