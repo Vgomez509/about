@@ -10,6 +10,8 @@ Acerca de Can Hack
 
 Can Hack es una asociación sin ánimo de lucro que busca democratizar el acceso a las tecnologías de fabricación mediante el impulso de un taller de trabajo en grupo.
 
+Consulta nuestros [estatutos](estatutos/EstatutosADIT-CanHack.md)
+
 
 Como participar
 ---------------
