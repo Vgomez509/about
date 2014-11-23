@@ -34,6 +34,7 @@ Puedes colaborar creando un fork y realizando un pull request o puedes solicitar
 
  * [Aprende git en 15 minutos](https://try.github.io/levels/1/challenges/1)
  * [Algunos comandos git](docs/comandosgit.md)
+ * [Y más Git...](http://www.linux.com/learn/tutorials/796387-beginning-git-and-github-for-linux-users/?nixCraft)
  * [Lista de tareas](https://github.com/CanHack/about/issues)
  * (Nuevo 27/09) [Encuentra tu taller. Si no está, dínoslo](brainstorming/talleres.md)
 
