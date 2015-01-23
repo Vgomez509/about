@@ -50,8 +50,8 @@ en el proyecto.
 
 Entregable-Descripcion | Destinatarios | Método de entrega | Frecuencia | Responsable
 ---------- | ------- | ------------------- | ------ | -----
-2014 |  |  |  |
-2015 |  |  |  |
+Reuniones Equipos | Miembros del equipo | Presencial | Sin Especificar | Director de proyecto
+Ad hoc | Según necesidad | Según necesidad | Según necesidad | Según necesidad
 
 
 ### Reporte
