@@ -51,7 +51,7 @@ Aspectos críticos
 ==================
 
 
-Objetivo | Descripcion
+nº | Descripcion
 ---------- | ------- 
 2014 |  ...
 2015 |  ...
