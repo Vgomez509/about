@@ -29,8 +29,9 @@ Las restricciones son factores que limitan el proyecto por alcance, recursos o c
 
 nº | Descripción
 ---------- | -------
-1 | 0
-2 | 0
+1 | Todas las actuaciones atribuibles a Can Hack se desarrollarán dentro del marco de los reglamentos.
+2 | Los reglamentos se redactarán a partir de los estatutos fundacionales
+3 | Los proyectos o actuaciones atribuibles a Can Hack se desarrollarán a partir de grupos de trabajo previamente constituidos, sin perjuicio de desarrollos individuales o colectivos bajo la responsabilidad exclusiva de su promotor.
 
 
 Dependencias
