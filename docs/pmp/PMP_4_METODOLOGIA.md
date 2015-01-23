@@ -8,7 +8,7 @@
 Productos entregables y metodología
 ==================
 
-Ciclo de vida del la dirección de proyecto
+Ciclo de vida de la dirección de proyecto
 --------------
 
 Fase | Resumen | Denominación del producto
