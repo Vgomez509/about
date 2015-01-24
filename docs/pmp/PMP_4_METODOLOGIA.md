@@ -13,7 +13,7 @@ Ciclo de vida de la dirección de proyecto
 
 Fase | Resumen | Denominación del producto
 ---------- | ------- | -------------------
-Inicio |Develop scope and high level objectives of project | Business Case, Project Charter
+Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Estudio de viabilidad, Acta de constitución
 Planificación | Development of what a successful project looks like. Requirements document that translates functional tasks into product requirements. Selection of vendor to meet the defined requirements. | Project Management Plan, Product requirements,  ‘as is’ and ‘to be’ workflow diagrams for each section within the SLD, RFP
 Ejecución | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | Contract with vendor, work plan, system testing and acceptance.  Implement the LIMS throughout SLD. System enters production. Creation of Change Control Board (CCB)
 Control | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | CAIB
@@ -62,8 +62,8 @@ La agenda de reuniones y la documentación de soporte se proveerá usando
 el software que se detalla: LibreOffice Write, Libre Office Calc, Libre Office Impress,
 Proyect Libre o en su defecto se usará el formato abierto odf o Markdown.
 El repositorio del proyecto es github.com/CanHack.
-Para todas las reuniones -periódicas o no-, los asistentes deben contar con la documentación de la reunión anterior con un mínimo de dos días de antelación. 
-Las reuniónes se planificarán de antemano con los puntos a tratar y una previsión de hora de inicio y duración. 
+Para todas las reuniones -periódicas o no-, los asistentes deben contar con la documentación de la reunión anterior con un mínimo de dos días de antelación.
+Las reuniónes se planificarán de antemano con los puntos a tratar y una previsión de hora de inicio y duración.
 Los puntos no tratados pueden posponerse a la siguiente reunión períodica o programar una extraordinaria.
 Las reuniones serán las mínimas imprescindibles, siendo preferible el reporte de incidencias para cada proyecto.
 En adelante nos referiremos a https://github.com/CanHack como /
