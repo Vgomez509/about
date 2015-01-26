@@ -77,13 +77,8 @@ Plan de proyecto
 
 Fase | Resumen | Denominación del producto
 ---------- | ------- | -------------------
-
-
-
-Ejecución | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | Contract with vendor, work plan, system testing and acceptance.  Implement the LIMS throughout SLD. System enters production. Creation of Change Control Board (CCB)
-
-Control | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | CAIB
-
+Ejecución | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | Contract with vendor, work plan, system testing and acceptance.  Implement the LIMS throughout SLD. System enters production. Creation of Change Control Board (CCB).
+Control | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | CAIB.
 Cierre |Document requirements are fulfilled by product, system has entered production and ownership transferred to Application Support Bureau (ASB), lessons learned. | Application Support Plan (ASP) is completed and accepted. CCB takes control of configuration request prioritization.
 
 
