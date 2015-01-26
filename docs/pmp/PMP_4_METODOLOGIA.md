@@ -13,8 +13,61 @@ Ciclo de vida de la dirección de proyecto
 
 Fase | Resumen | Denominación del producto
 ---------- | ------- | -------------------
-Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Estudio de viabilidad, Acta de constitución
-Planificación | Development of what a successful project looks like. Requirements document that translates functional tasks into product requirements. Selection of vendor to meet the defined requirements. | Project Management Plan, Product requirements,  ‘as is’ and ‘to be’ workflow diagrams for each section within the SLD, RFP
+Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Acta de constitución, Registro de interesados, Plan de dirección del proyecto (Gestión de interesados).
+
+
+Fase | Resumen | Denominación del producto
+---------- | ------- | -------------------
+
+Planificación
+* Recopilar requisitos.
+* Definir el alcance.
+* Crear Estructura de Desglose del Trabajo (EDT).
+* Definir actividades.
+* Secuenciar las actividades.
+* Estimar los recursos de las actividades.
+* Estimar la duracion de las actividades.
+* Desarrollar el cronograma.
+* Estimar costos
+* Determinar el presupuesto
+* Planificar la calidad
+* Desarrollar el plan de recursos humanos
+* Planificar las comunicaciones
+* Planificar la gestión de riesgos
+* Identificar riesgos
+* Realizar Análisis Cualitativo de riesgos
+* Realizar Análisis Cuantitativo de riesgos
+* Planificar la respuesta a los riesgos
+* Planificar las Adquisiciones
+| Desarrollo del plan de dirección de proyecto
+| Plan de proyecto
+
+* Documento de requisitos
+* Documento de alcance
+* EDT(WBS), Diccionario EDT
+* Lista de actividades, Lista de hitos.
+* Diagrama de actividades (Gantt)
+* Requisitos de los recursos, RDT(RBS)
+* Estimación de la duración de las actividades.
+* Cronograma, linea de base del cronograma, restricciones.
+* Estimación de costos de las actividades.
+* Presupuesto, Requisitos para la financiación.
+* Plan de calidad. Métricas de calidad. Lista de comprobaciones. Plan de mejora de la calidad.
+* Plan RRHH
+* Plan de comunicaciones.
+* Plan de gestión de riesgos.
+* Registro de riesgos
+* Plan de adquisiciones
+* Decisiones compra vs fabricación
+* Documento de proveedores
+* Criterios de selección
+
+
+
+
+
+
+Development of what a successful project looks like. Requirements document that translates functional tasks into product requirements. Selection of vendor to meet the defined requirements. | Project Management Plan, Product requirements,  ‘as is’ and ‘to be’ workflow diagrams for each section within the SLD, RFP
 Ejecución | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | Contract with vendor, work plan, system testing and acceptance.  Implement the LIMS throughout SLD. System enters production. Creation of Change Control Board (CCB)
 Control | Execute contract with vendor to fulfill the product requirements. Define development, test and acceptance criteria and execute.  | CAIB
 Cierre |Document requirements are fulfilled by product, system has entered production and ownership transferred to Application Support Bureau (ASB), lessons learned. | Application Support Plan (ASP) is completed and accepted. CCB takes control of configuration request prioritization.
