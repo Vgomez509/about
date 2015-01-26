@@ -16,61 +16,53 @@ Fase | Resumen | Denominación del producto
 Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Acta de constitución, Registro de interesados, Plan de dirección del proyecto (Gestión de interesados).
 
 
-Fase
-----------
+Fase | Resumen | Denominación del producto
+---------- | ------- | -------------------
 
-Planificación
-
-* Recopilar requisitos.
-* Definir el alcance.
-* Crear Estructura de Desglose del Trabajo (EDT).
-* Definir actividades.
-* Secuenciar las actividades.
-* Estimar los recursos de las actividades.
-* Estimar la duracion de las actividades.
-* Desarrollar el cronograma.
-* Estimar costos
-* Determinar el presupuesto
-* Planificar la calidad
-* Desarrollar el plan de recursos humanos
-* Planificar las comunicaciones
-* Planificar la gestión de riesgos
-* Identificar riesgos
-* Realizar Análisis Cualitativo de riesgos
-* Realizar Análisis Cuantitativo de riesgos
-* Planificar la respuesta a los riesgos
-* Planificar las Adquisiciones
+Planificación | Desarrollo del plan de dirección de proyecto | Plan de proyecto
 
 
-Resumen
-----------
-Desarrollo del plan de dirección de proyecto
+ * Recopilar requisitos.
+ * Definir el alcance.
+ * Crear Estructura de Desglose del Trabajo (EDT).
+ * Definir actividades.
+ * Secuenciar las actividades.
+ * Estimar los recursos de las actividades.
+ * Estimar la duracion de las actividades.
+ * Desarrollar el cronograma.
+ * Estimar costos
+ * Determinar el presupuesto
+ * Planificar la calidad
+ * Desarrollar el plan de recursos humanos
+ * Planificar las comunicaciones
+ * Planificar la gestión de riesgos
+ * Identificar riesgos
+ * Realizar Análisis Cualitativo de riesgos
+ *  Realizar Análisis Cuantitativo de riesgos
+ *  Planificar la respuesta a los riesgos
+ * Planificar las Adquisiciones
 
 
-Producto
-----------  
 
-Plan de proyecto
-
-* Documento de requisitos
-* Documento de alcance
-* EDT(WBS), Diccionario EDT
-* Lista de actividades, Lista de hitos.
-* Diagrama de actividades (Gantt)
-* Requisitos de los recursos, RDT(RBS)
-* Estimación de la duración de las actividades.
-* Cronograma, linea de base del cronograma, restricciones.
-* Estimación de costos de las actividades.
-* Presupuesto, Requisitos para la financiación.
-* Plan de calidad. Métricas de calidad. Lista de comprobaciones. Plan de mejora de la calidad.
-* Plan RRHH
-* Plan de comunicaciones.
-* Plan de gestión de riesgos.
-* Registro de riesgos
-* Plan de adquisiciones
-* Decisiones compra vs fabricación
-* Documento de proveedores
-* Criterios de selección
+ * Documento de requisitos
+ * Documento de alcance
+ * EDT(WBS), Diccionario EDT
+ * Lista de actividades, Lista de hitos.
+ * Diagrama de actividades (Gantt)
+ * Requisitos de los recursos, RDT(RBS)
+ *  Estimación de la duración de las actividades.
+ * Cronograma, linea de base del cronograma, restricciones.
+ * Estimación de costos de las actividades.
+ * Presupuesto, Requisitos para la financiación.
+ * Plan de calidad. Métricas de calidad. Lista de comprobaciones. Plan de mejora de la calidad.
+ * Plan RRHH
+ * Plan de comunicaciones.
+ * Plan de gestión de riesgos.
+ * Registro de riesgos
+ * Plan de adquisiciones
+ *  Decisiones compra vs fabricación
+ * Documento de proveedores
+ *  Criterios de selección
 
 
 
@@ -95,13 +87,13 @@ El cuadro directivo proveerá supervisión y a la dirección y soporte del
 proyecto y es presidido por el director del proyecto. Sus responsabilidades
 incluyen:
 
-* Asistir y participar en reuniones
-* Revisar y aceptar entregables
-* Revisar la documentación presentada
-* Ponderar la visión global y el detalle del proyecto
-* Revisar la financiación y los gastos
-* Procurar el éxito del proyecto
-* Recopilar leciones aprendidas
+ Asistir y participar en reuniones
+ Revisar y aceptar entregables
+ Revisar la documentación presentada
+ Ponderar la visión global y el detalle del proyecto
+ Revisar la financiación y los gastos
+ Procurar el éxito del proyecto
+ Recopilar leciones aprendidas
 
 
 
