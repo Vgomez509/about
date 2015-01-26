@@ -65,6 +65,8 @@ Planificación
 
 
 
+Fase | Resumen | Denominación del producto
+---------- | ------- | -------------------
 
 
 Development of what a successful project looks like. Requirements document that translates functional tasks into product requirements. Selection of vendor to meet the defined requirements. | Project Management Plan, Product requirements,  ‘as is’ and ‘to be’ workflow diagrams for each section within the SLD, RFP
