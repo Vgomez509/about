@@ -14,8 +14,11 @@ Ciclo de vida de la dirección de proyecto
 Fase | Resumen | Denominación del producto
 ---------- | ------- | -------------------
 Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Acta de constitución, Registro de interesados, Plan de dirección del proyecto (Gestión de interesados).
-Planificación | Desarrollo del plan de dirección de proyecto | Plan de proyecto
+Planificación | Desarrollo del plan de dirección de proyecto(1) | Plan de proyecto(2)
 
+
+(1) Detalle del desarrollo del plan de dirección de proyecto.
+----------------------
 
  * Recopilar requisitos.
  * Definir el alcance.
@@ -38,6 +41,8 @@ Planificación | Desarrollo del plan de dirección de proyecto | Plan de proyect
  * Planificar las Adquisiciones
 
 
+(2) Detalle de los productos que componen el plan de proyecto
+------------------------------------------
 
  * Documento de requisitos
  * Documento de alcance
