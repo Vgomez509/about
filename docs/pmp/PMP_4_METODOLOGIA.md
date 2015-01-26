@@ -16,10 +16,11 @@ Fase | Resumen | Denominación del producto
 Inicio |Desarrollo del alcance y requisitos de alto nivel del proyecto | Acta de constitución, Registro de interesados, Plan de dirección del proyecto (Gestión de interesados).
 
 
-Fase | Resumen | Denominación del producto
----------- | ------- | -------------------
+Fase
+----------
 
 Planificación
+
 * Recopilar requisitos.
 * Definir el alcance.
 * Crear Estructura de Desglose del Trabajo (EDT).
@@ -38,7 +39,18 @@ Planificación
 * Realizar Análisis Cualitativo de riesgos
 * Realizar Análisis Cuantitativo de riesgos
 * Planificar la respuesta a los riesgos
-* Planificar las Adquisiciones | Desarrollo del plan de dirección de proyecto | Plan de proyecto
+* Planificar las Adquisiciones
+
+
+Resumen
+----------
+Desarrollo del plan de dirección de proyecto
+
+
+Producto
+----------  
+
+Plan de proyecto
 
 * Documento de requisitos
 * Documento de alcance
