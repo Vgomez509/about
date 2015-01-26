@@ -38,9 +38,7 @@ Planificación
 * Realizar Análisis Cualitativo de riesgos
 * Realizar Análisis Cuantitativo de riesgos
 * Planificar la respuesta a los riesgos
-* Planificar las Adquisiciones
-
-| Desarrollo del plan de dirección de proyecto | Plan de proyecto
+* Planificar las Adquisiciones | Desarrollo del plan de dirección de proyecto | Plan de proyecto
 
 * Documento de requisitos
 * Documento de alcance
