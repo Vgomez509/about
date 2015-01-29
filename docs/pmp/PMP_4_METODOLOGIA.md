@@ -86,3 +86,10 @@ Cierre |Document requirements are fulfilled by product, system has entered produ
 * Efectuar adquisiciones
 
 (2) Detalle de los productos que se añaden al plan de proyecto.
+
+* Informes de desempeño
+* Registro de cambios solicitados
+* Registro de asignaciones de recursos a actividades.
+* Calendario de los recursos
+* Evaluaciones de desempeño del equipo.
+* Registro de cambios en factores del entorno.
