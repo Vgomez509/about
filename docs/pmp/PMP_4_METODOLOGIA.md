@@ -60,9 +60,9 @@ Planificación | Desarrollo del plan de dirección de proyecto(1) | Plan de proy
  * Plan de gestión de riesgos.
  * Registro de riesgos
  * Plan de adquisiciones
- *  Decisiones compra vs fabricación
+ * Decisiones compra vs fabricación
  * Documento de proveedores
- *  Criterios de selección
+ * Criterios de selección
 
 
 
@@ -92,4 +92,6 @@ Cierre |Document requirements are fulfilled by product, system has entered produ
 * Registro de asignaciones de recursos a actividades.
 * Calendario de los recursos
 * Evaluaciones de desempeño del equipo.
-* Registro de cambios en factores del entorno.
+* Registro de cambios en factores del entorno
+* Registro de proveedores seleccionados.
+* Contratos de adquisición de recursos.
