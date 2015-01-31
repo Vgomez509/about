@@ -36,8 +36,8 @@ Planificación | Desarrollo del plan de dirección de proyecto(1) | Plan de proy
  * Planificar la gestión de riesgos
  * Identificar riesgos
  * Realizar Análisis Cualitativo de riesgos
- *  Realizar Análisis Cuantitativo de riesgos
- *  Planificar la respuesta a los riesgos
+ * Realizar Análisis Cuantitativo de riesgos
+ * Planificar la respuesta a los riesgos
  * Planificar las Adquisiciones
 
 
@@ -95,3 +95,13 @@ Cierre |Document requirements are fulfilled by product, system has entered produ
 * Registro de cambios en factores del entorno
 * Registro de proveedores seleccionados.
 * Contratos de adquisición de recursos.
+
+
+
+Ciclo de vida del producto
+--------------
+
+Fase | Resumen | Denominación del producto
+---------- | ------- | -------------------
+
+Inicio | |
