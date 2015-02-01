@@ -104,4 +104,6 @@ Ciclo de vida del producto
 Fase | Resumen | Denominación del producto
 ---------- | ------- | -------------------
 
-Inicio | |
+Inicio | Definir acabados finales y alcance | Constitución del proyecto
+Planificacion | Desarrollo de los requisitos. Establecimiento del presupuesto inicial y fuentes de financiación. | Documento de requisitos
+Definición | Garantizar financiación, 
